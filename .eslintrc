@@ -12,6 +12,7 @@
   "rules": {
     "@typescript-eslint/interface-name-prefix": 0,
     "@typescript-eslint/space-before-function-paren": ["error", "always"],
-    "space-before-function-paren": ["error", "always"]
+    "space-before-function-paren": ["error", "always"],
+    "quotes": ["error", "single"]
   }
 }
