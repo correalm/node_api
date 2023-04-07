@@ -10,7 +10,7 @@ describe('StormGlass client', () => {
     const lat = -33.123
     const lng = 134.567
 
-    axios.get = jest.fn().mockResolvedValue(stormGlassNotNormaliezedWeather)
+    axios.get = jest.fn().mockResolvedValue({ data: stormGlassNotNormaliezedWeather })
 
     const stormGlass = new StormGlass(axios)
     const response = await stormGlass.fetchPoints(lat, lng)
