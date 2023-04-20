@@ -1,5 +1,6 @@
 import { InternalError } from '@src/util/errors/internal-error';
 import { AxiosStatic } from 'axios';
+import config, { IConfig } from 'config'
 
 export interface StormGlassPointSource {
   // dynamic key
@@ -45,6 +46,8 @@ export class StormGlassResponseError extends InternalError {
     super(`${internalMessage}: ${message}`);
   }
 }
+
+const stormGlassResourceConfig: IConfig = config.get('App.resources.StormGlass')
 export class StormGlass {
   /*
     Utilizar o protected me dá um this.request -> não precido de uma variável na classe;
@@ -62,13 +65,13 @@ export class StormGlass {
   public async fetchPoints(lat: number, lng: number): Promise<ForecastPoint[]> {
     try {
       const response = await this.request.get<StormGlassResponse>(
-        'https://api.stormglass.io/v2/weather/point?' +
+        `${stormGlassResourceConfig.get('apiUrl')}/weather/point?` +
           `lat=${lat}&lng=${lng}` +
           `&params=${this.stormGlassAPIParams}` +
           `&source=${this.stormGlassAPISource}`,
         {
           headers: {
-            Authorization: 'token',
+            Authorization: stormGlassResourceConfig.get('apiToken'),
           },
         }
       );
