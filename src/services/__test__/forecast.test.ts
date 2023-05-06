@@ -1,14 +1,21 @@
 import { StormGlass } from '@src/clients/stormGlass';
 import stormGlassNormalizedResponse from '@test/fixtures/stormglass_normalized_weather_3_hours.json';
-import { Forecast, Beach, BeachPosition, ForecastProcessingInternalError } from '../forecast';
+import {
+  Forecast,
+  Beach,
+  BeachPosition,
+  ForecastProcessingInternalError,
+} from '../forecast';
 
 jest.mock('@src/clients/stormGlass');
 
 describe('Forecast Service', () => {
   // this permits types on mocked element
-  const mockedStormGlassService = new StormGlass() as jest.Mocked<StormGlass>
+  const mockedStormGlassService = new StormGlass() as jest.Mocked<StormGlass>;
   test('return the forecast for a list of beaches', async () => {
-    mockedStormGlassService.fetchPoints.mockResolvedValue(stormGlassNormalizedResponse);
+    mockedStormGlassService.fetchPoints.mockResolvedValue(
+      stormGlassNormalizedResponse
+    );
 
     const beaches: Beach[] = [
       {
@@ -91,10 +98,10 @@ describe('Forecast Service', () => {
 
   test('return a empty list when the beaches array is empty', async () => {
     const forecast = new Forecast();
-    const response = await forecast.processForecastForBeaches([])
+    const response = await forecast.processForecastForBeaches([]);
 
-    expect(response).toEqual([])
-  })
+    expect(response).toEqual([]);
+  });
 
   test('throw internal processing error when something goes wrong during the rating process', async () => {
     const beaches: Beach[] = [
@@ -107,9 +114,13 @@ describe('Forecast Service', () => {
       },
     ];
 
-    mockedStormGlassService.fetchPoints.mockRejectedValue('Error fetching data')
+    mockedStormGlassService.fetchPoints.mockRejectedValue(
+      'Error fetching data'
+    );
 
     const forecast = new Forecast(mockedStormGlassService);
-    await expect(forecast.processForecastForBeaches(beaches)).rejects.toThrow(ForecastProcessingInternalError)
-  })
+    await expect(forecast.processForecastForBeaches(beaches)).rejects.toThrow(
+      ForecastProcessingInternalError
+    );
+  });
 });

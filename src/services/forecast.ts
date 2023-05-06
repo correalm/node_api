@@ -25,7 +25,7 @@ export interface TimeForecast {
 
 export class ForecastProcessingInternalError extends InternalError {
   constructor(message: string) {
-    super(`Unexpect error in forecast processing: ${message}`)
+    super(`Unexpect error in forecast processing: ${message}`);
   }
 }
 
@@ -40,18 +40,21 @@ export class Forecast {
     try {
       for (const beach of beaches) {
         const points = await this.stormGlass.fetchPoints(beach.lat, beach.lng);
-        const enrichedBeachData = this.enrichedBeach(points, beach)
+        const enrichedBeachData = this.enrichedBeach(points, beach);
 
         pointsWithCorrectSource.push(...enrichedBeachData);
       }
     } catch (error: any) {
-      throw new ForecastProcessingInternalError(error.message)
+      throw new ForecastProcessingInternalError(error.message);
     }
 
     return this.mapForecastByTime(pointsWithCorrectSource);
   }
 
-  private enrichedBeach(points: ForecastPoint[], beach: Beach): BeachForecast[] {
+  private enrichedBeach(
+    points: ForecastPoint[],
+    beach: Beach
+  ): BeachForecast[] {
     return points.map((point) => ({
       ...{
         lat: beach.lat,
