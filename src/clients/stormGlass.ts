@@ -1,6 +1,6 @@
 import { InternalError } from '@src/util/errors/internal-error';
-import config, { IConfig } from 'config'
-import * as HTTPUtil from '@src/util/request'
+import config, { IConfig } from 'config';
+import * as HTTPUtil from '@src/util/request';
 
 export interface StormGlassPointSource {
   // dynamic key
@@ -47,7 +47,9 @@ export class StormGlassResponseError extends InternalError {
   }
 }
 
-const stormGlassResourceConfig: IConfig = config.get('App.resources.StormGlass')
+const stormGlassResourceConfig: IConfig = config.get(
+  'App.resources.StormGlass'
+);
 export class StormGlass {
   /*
     Utilizar o protected me dá um this.request -> não precido de uma variável na classe;
