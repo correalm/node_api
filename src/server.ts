@@ -25,6 +25,6 @@ export class SetupServer extends Server {
   }
 
   public getApp(): Application {
-    return this.app;
+    // return this.app;
   }
 }
