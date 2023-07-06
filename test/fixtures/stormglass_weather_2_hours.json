@@ -47,30 +47,6 @@
       "windSpeed": {
         "noaa": 100
       }
-    },
-    {
-      "swellDirection": {
-        "noaa": 182.56
-      },
-      "swellHeight": {
-        "noaa": 0.28
-      },
-      "swellPeriod": {
-        "noaa": 3.44
-      },
-      "time": "2020-04-26T02:00:00+00:00",
-      "waveDirection": {
-        "noaa": 232.86
-      },
-      "waveHeight": {
-        "noaa": 0.46
-      },
-      "windDirection": {
-        "noaa": 321.5
-      },
-      "windSpeed": {
-        "noaa": 100
-      }
     }
   ],
   "meta": {
