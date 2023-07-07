@@ -1,13 +1,13 @@
-import { StormGlass } from '@src/clients/stormGlass';
-import stormGlassNormalizedResponse from '@test/fixtures/stormglass_normalized_weather_3_hours.json';
+import { StormGlass } from 'src/clients/stormGlass';
+import stormGlassNormalizedResponse from 'test/fixtures/stormglass_normalized_weather_2_hours.json';
 import {
   Forecast,
-  Beach,
-  BeachPosition,
   ForecastProcessingInternalError,
 } from '../forecast';
+import { BeachI, BeachPosition } from 'src/models/beach'
+import apiForecastResponse from '../../../test/fixtures/api_forecast_response_2_hours.json'
 
-jest.mock('@src/clients/stormGlass');
+jest.mock('src/clients/stormGlass');
 
 describe('Forecast Service', () => {
   // this permits types on mocked element
@@ -17,7 +17,7 @@ describe('Forecast Service', () => {
       stormGlassNormalizedResponse
     );
 
-    const beaches: Beach[] = [
+    const beaches: BeachI[] = [
       {
         lat: -33.792726,
         lng: 151.289824,
@@ -27,73 +27,10 @@ describe('Forecast Service', () => {
       },
     ];
 
-    const expectedResponse = [
-      {
-        time: '2020-04-26T00:00:00+00:00',
-        forecast: [
-          {
-            lat: -33.792726,
-            lng: 151.289824,
-            name: 'Manly',
-            rating: 1,
-            position: BeachPosition.E,
-            swellDirection: 64.26,
-            swellHeight: 0.15,
-            swellPeriod: 3.89,
-            time: '2020-04-26T00:00:00+00:00',
-            waveDirection: 231.38,
-            waveHeight: 0.47,
-            windDirection: 299.45,
-            windSpeed: 100,
-          },
-        ],
-      },
-      {
-        time: '2020-04-26T01:00:00+00:00',
-        forecast: [
-          {
-            lat: -33.792726,
-            lng: 151.289824,
-            name: 'Manly',
-            rating: 1,
-            position: BeachPosition.E,
-            swellDirection: 123.41,
-            swellHeight: 0.21,
-            swellPeriod: 3.67,
-            time: '2020-04-26T01:00:00+00:00',
-            waveDirection: 232.12,
-            waveHeight: 0.46,
-            windDirection: 310.48,
-            windSpeed: 100,
-          },
-        ],
-      },
-      {
-        time: '2020-04-26T02:00:00+00:00',
-        forecast: [
-          {
-            lat: -33.792726,
-            lng: 151.289824,
-            name: 'Manly',
-            rating: 1,
-            position: BeachPosition.E,
-            swellDirection: 182.56,
-            swellHeight: 0.28,
-            swellPeriod: 3.44,
-            time: '2020-04-26T02:00:00+00:00',
-            waveDirection: 232.86,
-            waveHeight: 0.46,
-            windDirection: 321.5,
-            windSpeed: 100,
-          },
-        ],
-      },
-    ];
-
     const forecast = new Forecast(mockedStormGlassService);
     const beachsWithRating = await forecast.processForecastForBeaches(beaches);
 
-    expect(beachsWithRating).toEqual(expectedResponse);
+    expect(beachsWithRating).toEqual(apiForecastResponse);
   });
 
   test('return a empty list when the beaches array is empty', async () => {
@@ -104,7 +41,7 @@ describe('Forecast Service', () => {
   });
 
   test('throw internal processing error when something goes wrong during the rating process', async () => {
-    const beaches: Beach[] = [
+    const beaches: BeachI[] = [
       {
         lat: -33.792726,
         lng: 151.289824,

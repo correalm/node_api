@@ -1,0 +1,4822 @@
+[
+  {
+  "time": "2023-07-07T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T00:00:00+00:00",
+  "swellDirection": 215.52,
+  "swellHeight": 0.06,
+  "swellPeriod": 17.79,
+  "waveDirection": 219.74,
+  "waveHeight": 1.14,
+  "windDirection": 202.24,
+  "windSpeed": 4.43
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T01:00:00+00:00",
+  "swellDirection": 215.41,
+  "swellHeight": 0.4,
+  "swellPeriod": 15.71,
+  "waveDirection": 219.48,
+  "waveHeight": 1.14,
+  "windDirection": 198.82,
+  "windSpeed": 4.87
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T02:00:00+00:00",
+  "swellDirection": 215.29,
+  "swellHeight": 0.74,
+  "swellPeriod": 13.63,
+  "waveDirection": 219.22,
+  "waveHeight": 1.13,
+  "windDirection": 195.41,
+  "windSpeed": 5.31
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T03:00:00+00:00",
+  "swellDirection": 215.18,
+  "swellHeight": 1.08,
+  "swellPeriod": 11.55,
+  "waveDirection": 218.96,
+  "waveHeight": 1.13,
+  "windDirection": 191.99,
+  "windSpeed": 5.75
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T04:00:00+00:00",
+  "swellDirection": 215.22,
+  "swellHeight": 1.07,
+  "swellPeriod": 11.48,
+  "waveDirection": 219.01,
+  "waveHeight": 1.13,
+  "windDirection": 191.86,
+  "windSpeed": 5.84
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T05:00:00+00:00",
+  "swellDirection": 215.26,
+  "swellHeight": 1.05,
+  "swellPeriod": 11.4,
+  "waveDirection": 219.05,
+  "waveHeight": 1.14,
+  "windDirection": 191.72,
+  "windSpeed": 5.94
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T06:00:00+00:00",
+  "swellDirection": 215.3,
+  "swellHeight": 1.04,
+  "swellPeriod": 11.33,
+  "waveDirection": 219.1,
+  "waveHeight": 1.14,
+  "windDirection": 191.59,
+  "windSpeed": 6.03
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T07:00:00+00:00",
+  "swellDirection": 215.36,
+  "swellHeight": 1.03,
+  "swellPeriod": 11.28,
+  "waveDirection": 219.16,
+  "waveHeight": 1.14,
+  "windDirection": 194.66,
+  "windSpeed": 5.62
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T08:00:00+00:00",
+  "swellDirection": 215.42,
+  "swellHeight": 1.01,
+  "swellPeriod": 11.22,
+  "waveDirection": 219.23,
+  "waveHeight": 1.13,
+  "windDirection": 197.72,
+  "windSpeed": 5.2
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T09:00:00+00:00",
+  "swellDirection": 215.48,
+  "swellHeight": 1,
+  "swellPeriod": 11.17,
+  "waveDirection": 219.29,
+  "waveHeight": 1.13,
+  "windDirection": 200.79,
+  "windSpeed": 4.79
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T10:00:00+00:00",
+  "swellDirection": 215.47,
+  "swellHeight": 0.98,
+  "swellPeriod": 11.13,
+  "waveDirection": 219.06,
+  "waveHeight": 1.12,
+  "windDirection": 202.81,
+  "windSpeed": 4.73
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T11:00:00+00:00",
+  "swellDirection": 215.45,
+  "swellHeight": 0.96,
+  "swellPeriod": 11.09,
+  "waveDirection": 218.83,
+  "waveHeight": 1.12,
+  "windDirection": 204.83,
+  "windSpeed": 4.68
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T12:00:00+00:00",
+  "swellDirection": 215.44,
+  "swellHeight": 0.94,
+  "swellPeriod": 11.05,
+  "waveDirection": 218.6,
+  "waveHeight": 1.11,
+  "windDirection": 206.85,
+  "windSpeed": 4.62
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T13:00:00+00:00",
+  "swellDirection": 215.5,
+  "swellHeight": 0.92,
+  "swellPeriod": 11.01,
+  "waveDirection": 218.3,
+  "waveHeight": 1.11,
+  "windDirection": 210.43,
+  "windSpeed": 4.68
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T14:00:00+00:00",
+  "swellDirection": 215.56,
+  "swellHeight": 0.9,
+  "swellPeriod": 10.98,
+  "waveDirection": 218,
+  "waveHeight": 1.11,
+  "windDirection": 214,
+  "windSpeed": 4.74
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T15:00:00+00:00",
+  "swellDirection": 215.62,
+  "swellHeight": 0.88,
+  "swellPeriod": 10.94,
+  "waveDirection": 217.7,
+  "waveHeight": 1.11,
+  "windDirection": 217.58,
+  "windSpeed": 4.8
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T16:00:00+00:00",
+  "swellDirection": 215.69,
+  "swellHeight": 0.86,
+  "swellPeriod": 10.91,
+  "waveDirection": 217.39,
+  "waveHeight": 1.12,
+  "windDirection": 215.3,
+  "windSpeed": 5.36
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T17:00:00+00:00",
+  "swellDirection": 215.77,
+  "swellHeight": 0.85,
+  "swellPeriod": 10.88,
+  "waveDirection": 217.09,
+  "waveHeight": 1.13,
+  "windDirection": 213.02,
+  "windSpeed": 5.93
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T18:00:00+00:00",
+  "swellDirection": 215.84,
+  "swellHeight": 0.83,
+  "swellPeriod": 10.85,
+  "waveDirection": 216.78,
+  "waveHeight": 1.14,
+  "windDirection": 210.74,
+  "windSpeed": 6.49
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T19:00:00+00:00",
+  "swellDirection": 215.68,
+  "swellHeight": 0.82,
+  "swellPeriod": 10.82,
+  "waveDirection": 216.54,
+  "waveHeight": 1.14,
+  "windDirection": 208.75,
+  "windSpeed": 6.82
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T20:00:00+00:00",
+  "swellDirection": 215.51,
+  "swellHeight": 0.8,
+  "swellPeriod": 10.79,
+  "waveDirection": 216.3,
+  "waveHeight": 1.15,
+  "windDirection": 206.77,
+  "windSpeed": 7.16
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T21:00:00+00:00",
+  "swellDirection": 215.35,
+  "swellHeight": 0.79,
+  "swellPeriod": 10.76,
+  "waveDirection": 216.06,
+  "waveHeight": 1.15,
+  "windDirection": 204.78,
+  "windSpeed": 7.49
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T22:00:00+00:00",
+  "swellDirection": 220.57,
+  "swellHeight": 0.56,
+  "swellPeriod": 13.21,
+  "waveDirection": 216.26,
+  "waveHeight": 1.16,
+  "windDirection": 198.58,
+  "windSpeed": 7.4
+  }
+  ]
+  },
+  {
+  "time": "2023-07-07T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-07T23:00:00+00:00",
+  "swellDirection": 225.78,
+  "swellHeight": 0.32,
+  "swellPeriod": 15.65,
+  "waveDirection": 216.45,
+  "waveHeight": 1.17,
+  "windDirection": 192.39,
+  "windSpeed": 7.31
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T00:00:00+00:00",
+  "swellDirection": 231,
+  "swellHeight": 0.09,
+  "swellPeriod": 18.1,
+  "waveDirection": 216.65,
+  "waveHeight": 1.18,
+  "windDirection": 186.19,
+  "windSpeed": 7.22
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T01:00:00+00:00",
+  "swellDirection": 225.39,
+  "swellHeight": 0.3,
+  "swellPeriod": 15.54,
+  "waveDirection": 216.24,
+  "waveHeight": 1.19,
+  "windDirection": 186.31,
+  "windSpeed": 7.03
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T02:00:00+00:00",
+  "swellDirection": 219.77,
+  "swellHeight": 0.52,
+  "swellPeriod": 12.98,
+  "waveDirection": 215.83,
+  "waveHeight": 1.2,
+  "windDirection": 186.44,
+  "windSpeed": 6.83
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T03:00:00+00:00",
+  "swellDirection": 214.16,
+  "swellHeight": 0.73,
+  "swellPeriod": 10.42,
+  "waveDirection": 215.42,
+  "waveHeight": 1.21,
+  "windDirection": 186.56,
+  "windSpeed": 6.64
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T04:00:00+00:00",
+  "swellDirection": 222.14,
+  "swellHeight": 0.53,
+  "swellPeriod": 11.79,
+  "waveDirection": 215.11,
+  "waveHeight": 1.19,
+  "windDirection": 188.67,
+  "windSpeed": 6.29
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T05:00:00+00:00",
+  "swellDirection": 230.13,
+  "swellHeight": 0.33,
+  "swellPeriod": 13.15,
+  "waveDirection": 214.81,
+  "waveHeight": 1.17,
+  "windDirection": 190.79,
+  "windSpeed": 5.93
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T06:00:00+00:00",
+  "swellDirection": 238.11,
+  "swellHeight": 0.13,
+  "swellPeriod": 14.52,
+  "waveDirection": 214.5,
+  "waveHeight": 1.15,
+  "windDirection": 192.9,
+  "windSpeed": 5.58
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T07:00:00+00:00",
+  "swellDirection": 229.76,
+  "swellHeight": 0.3,
+  "swellPeriod": 13.09,
+  "waveDirection": 214.24,
+  "waveHeight": 1.14,
+  "windDirection": 199.55,
+  "windSpeed": 5.66
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T08:00:00+00:00",
+  "swellDirection": 221.4,
+  "swellHeight": 0.48,
+  "swellPeriod": 11.65,
+  "waveDirection": 213.97,
+  "waveHeight": 1.14,
+  "windDirection": 206.19,
+  "windSpeed": 5.74
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T09:00:00+00:00",
+  "swellDirection": 213.05,
+  "swellHeight": 0.65,
+  "swellPeriod": 10.22,
+  "waveDirection": 213.71,
+  "waveHeight": 1.13,
+  "windDirection": 212.84,
+  "windSpeed": 5.82
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T10:00:00+00:00",
+  "swellDirection": 219.94,
+  "swellHeight": 0.55,
+  "swellPeriod": 11.99,
+  "waveDirection": 213.51,
+  "waveHeight": 1.13,
+  "windDirection": 213.53,
+  "windSpeed": 5.41
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T11:00:00+00:00",
+  "swellDirection": 226.83,
+  "swellHeight": 0.46,
+  "swellPeriod": 13.76,
+  "waveDirection": 213.3,
+  "waveHeight": 1.13,
+  "windDirection": 214.21,
+  "windSpeed": 5
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T12:00:00+00:00",
+  "swellDirection": 233.72,
+  "swellHeight": 0.36,
+  "swellPeriod": 15.53,
+  "waveDirection": 213.1,
+  "waveHeight": 1.13,
+  "windDirection": 214.9,
+  "windSpeed": 4.59
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T13:00:00+00:00",
+  "swellDirection": 219.24,
+  "swellHeight": 0.28,
+  "swellPeriod": 14.68,
+  "waveDirection": 219.55,
+  "waveHeight": 1.13,
+  "windDirection": 217.86,
+  "windSpeed": 4.78
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T14:00:00+00:00",
+  "swellDirection": 204.76,
+  "swellHeight": 0.2,
+  "swellPeriod": 13.84,
+  "waveDirection": 226,
+  "waveHeight": 1.12,
+  "windDirection": 220.83,
+  "windSpeed": 4.97
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T15:00:00+00:00",
+  "swellDirection": 190.28,
+  "swellHeight": 0.12,
+  "swellPeriod": 12.99,
+  "waveDirection": 232.45,
+  "waveHeight": 1.12,
+  "windDirection": 223.79,
+  "windSpeed": 5.16
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T16:00:00+00:00",
+  "swellDirection": 190.32,
+  "swellHeight": 0.13,
+  "swellPeriod": 12.89,
+  "waveDirection": 232.35,
+  "waveHeight": 1.14,
+  "windDirection": 226.31,
+  "windSpeed": 5.97
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T17:00:00+00:00",
+  "swellDirection": 190.36,
+  "swellHeight": 0.13,
+  "swellPeriod": 12.78,
+  "waveDirection": 232.26,
+  "waveHeight": 1.15,
+  "windDirection": 228.84,
+  "windSpeed": 6.78
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T18:00:00+00:00",
+  "swellDirection": 190.4,
+  "swellHeight": 0.14,
+  "swellPeriod": 12.68,
+  "waveDirection": 232.16,
+  "waveHeight": 1.17,
+  "windDirection": 231.36,
+  "windSpeed": 7.59
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T19:00:00+00:00",
+  "swellDirection": 190.69,
+  "swellHeight": 0.15,
+  "swellPeriod": 12.58,
+  "waveDirection": 232.31,
+  "waveHeight": 1.18,
+  "windDirection": 221.12,
+  "windSpeed": 7.41
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T20:00:00+00:00",
+  "swellDirection": 190.97,
+  "swellHeight": 0.16,
+  "swellPeriod": 12.47,
+  "waveDirection": 232.45,
+  "waveHeight": 1.18,
+  "windDirection": 210.88,
+  "windSpeed": 7.22
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T21:00:00+00:00",
+  "swellDirection": 191.26,
+  "swellHeight": 0.17,
+  "swellPeriod": 12.37,
+  "waveDirection": 232.6,
+  "waveHeight": 1.19,
+  "windDirection": 200.64,
+  "windSpeed": 7.04
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T22:00:00+00:00",
+  "swellDirection": 191.4,
+  "swellHeight": 0.17,
+  "swellPeriod": 12.26,
+  "waveDirection": 232.59,
+  "waveHeight": 1.19,
+  "windDirection": 195.38,
+  "windSpeed": 6.82
+  }
+  ]
+  },
+  {
+  "time": "2023-07-08T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-08T23:00:00+00:00",
+  "swellDirection": 191.55,
+  "swellHeight": 0.18,
+  "swellPeriod": 12.15,
+  "waveDirection": 232.58,
+  "waveHeight": 1.19,
+  "windDirection": 190.13,
+  "windSpeed": 6.59
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T00:00:00+00:00",
+  "swellDirection": 191.69,
+  "swellHeight": 0.18,
+  "swellPeriod": 12.04,
+  "waveDirection": 232.57,
+  "waveHeight": 1.19,
+  "windDirection": 184.87,
+  "windSpeed": 6.37
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T01:00:00+00:00",
+  "swellDirection": 198.37,
+  "swellHeight": 0.25,
+  "swellPeriod": 11.19,
+  "waveDirection": 232.47,
+  "waveHeight": 1.19,
+  "windDirection": 188.37,
+  "windSpeed": 5.5
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T02:00:00+00:00",
+  "swellDirection": 205.05,
+  "swellHeight": 0.33,
+  "swellPeriod": 10.34,
+  "waveDirection": 232.36,
+  "waveHeight": 1.18,
+  "windDirection": 191.86,
+  "windSpeed": 4.63
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T03:00:00+00:00",
+  "swellDirection": 211.73,
+  "swellHeight": 0.4,
+  "swellPeriod": 9.49,
+  "waveDirection": 232.26,
+  "waveHeight": 1.18,
+  "windDirection": 195.36,
+  "windSpeed": 3.76
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T04:00:00+00:00",
+  "swellDirection": 211.2,
+  "swellHeight": 0.38,
+  "swellPeriod": 9.43,
+  "waveDirection": 232.48,
+  "waveHeight": 1.19,
+  "windDirection": 198.87,
+  "windSpeed": 3.71
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T05:00:00+00:00",
+  "swellDirection": 210.67,
+  "swellHeight": 0.36,
+  "swellPeriod": 9.36,
+  "waveDirection": 232.69,
+  "waveHeight": 1.19,
+  "windDirection": 202.39,
+  "windSpeed": 3.65
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T06:00:00+00:00",
+  "swellDirection": 210.14,
+  "swellHeight": 0.34,
+  "swellPeriod": 9.3,
+  "waveDirection": 232.91,
+  "waveHeight": 1.2,
+  "windDirection": 205.9,
+  "windSpeed": 3.6
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T07:00:00+00:00",
+  "swellDirection": 205.61,
+  "swellHeight": 0.3,
+  "swellPeriod": 9.53,
+  "waveDirection": 232.79,
+  "waveHeight": 1.22,
+  "windDirection": 200.92,
+  "windSpeed": 3.28
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T08:00:00+00:00",
+  "swellDirection": 201.09,
+  "swellHeight": 0.26,
+  "swellPeriod": 9.76,
+  "waveDirection": 232.67,
+  "waveHeight": 1.25,
+  "windDirection": 195.95,
+  "windSpeed": 2.96
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T09:00:00+00:00",
+  "swellDirection": 196.56,
+  "swellHeight": 0.22,
+  "swellPeriod": 9.99,
+  "waveDirection": 232.55,
+  "waveHeight": 1.27,
+  "windDirection": 190.97,
+  "windSpeed": 2.64
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T10:00:00+00:00",
+  "swellDirection": 197.59,
+  "swellHeight": 0.23,
+  "swellPeriod": 12.88,
+  "waveDirection": 231.37,
+  "waveHeight": 1.34,
+  "windDirection": 202.11,
+  "windSpeed": 2.57
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T11:00:00+00:00",
+  "swellDirection": 198.61,
+  "swellHeight": 0.25,
+  "swellPeriod": 15.76,
+  "waveDirection": 230.18,
+  "waveHeight": 1.4,
+  "windDirection": 213.26,
+  "windSpeed": 2.5
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T12:00:00+00:00",
+  "swellDirection": 199.64,
+  "swellHeight": 0.26,
+  "swellPeriod": 18.65,
+  "waveDirection": 229,
+  "waveHeight": 1.47,
+  "windDirection": 224.4,
+  "windSpeed": 2.43
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T13:00:00+00:00",
+  "swellDirection": 200.43,
+  "swellHeight": 0.33,
+  "swellPeriod": 18.34,
+  "waveDirection": 226.14,
+  "waveHeight": 1.58,
+  "windDirection": 230.98,
+  "windSpeed": 3.09
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T14:00:00+00:00",
+  "swellDirection": 201.21,
+  "swellHeight": 0.4,
+  "swellPeriod": 18.03,
+  "waveDirection": 223.27,
+  "waveHeight": 1.7,
+  "windDirection": 237.55,
+  "windSpeed": 3.75
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T15:00:00+00:00",
+  "swellDirection": 202,
+  "swellHeight": 0.47,
+  "swellPeriod": 17.72,
+  "waveDirection": 220.41,
+  "waveHeight": 1.81,
+  "windDirection": 244.13,
+  "windSpeed": 4.41
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T16:00:00+00:00",
+  "swellDirection": 205.31,
+  "swellHeight": 0.99,
+  "swellPeriod": 15.65,
+  "waveDirection": 218.47,
+  "waveHeight": 1.92,
+  "windDirection": 245.76,
+  "windSpeed": 5.1
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T17:00:00+00:00",
+  "swellDirection": 208.61,
+  "swellHeight": 1.51,
+  "swellPeriod": 13.59,
+  "waveDirection": 216.52,
+  "waveHeight": 2.03,
+  "windDirection": 247.39,
+  "windSpeed": 5.8
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T18:00:00+00:00",
+  "swellDirection": 211.92,
+  "swellHeight": 2.03,
+  "swellPeriod": 11.52,
+  "waveDirection": 214.58,
+  "waveHeight": 2.14,
+  "windDirection": 249.02,
+  "windSpeed": 6.49
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T19:00:00+00:00",
+  "swellDirection": 211.63,
+  "swellHeight": 2.05,
+  "swellPeriod": 11.51,
+  "waveDirection": 213.98,
+  "waveHeight": 2.19,
+  "windDirection": 237,
+  "windSpeed": 5.55
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T20:00:00+00:00",
+  "swellDirection": 211.33,
+  "swellHeight": 2.06,
+  "swellPeriod": 11.51,
+  "waveDirection": 213.37,
+  "waveHeight": 2.24,
+  "windDirection": 224.97,
+  "windSpeed": 4.6
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T21:00:00+00:00",
+  "swellDirection": 211.04,
+  "swellHeight": 2.08,
+  "swellPeriod": 11.5,
+  "waveDirection": 212.77,
+  "waveHeight": 2.29,
+  "windDirection": 212.95,
+  "windSpeed": 3.66
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T22:00:00+00:00",
+  "swellDirection": 207.08,
+  "swellHeight": 1.63,
+  "swellPeriod": 13.26,
+  "waveDirection": 212.26,
+  "waveHeight": 2.31,
+  "windDirection": 206.51,
+  "windSpeed": 3.61
+  }
+  ]
+  },
+  {
+  "time": "2023-07-09T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-09T23:00:00+00:00",
+  "swellDirection": 203.12,
+  "swellHeight": 1.19,
+  "swellPeriod": 15.02,
+  "waveDirection": 211.76,
+  "waveHeight": 2.32,
+  "windDirection": 200.06,
+  "windSpeed": 3.55
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T00:00:00+00:00",
+  "swellDirection": 199.16,
+  "swellHeight": 0.74,
+  "swellPeriod": 16.78,
+  "waveDirection": 211.25,
+  "waveHeight": 2.34,
+  "windDirection": 193.62,
+  "windSpeed": 3.5
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T01:00:00+00:00",
+  "swellDirection": 201.92,
+  "swellHeight": 1.28,
+  "swellPeriod": 15.81,
+  "waveDirection": 210.05,
+  "waveHeight": 2.35,
+  "windDirection": 169.8,
+  "windSpeed": 2.81
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T02:00:00+00:00",
+  "swellDirection": 204.67,
+  "swellHeight": 1.83,
+  "swellPeriod": 14.83,
+  "waveDirection": 208.85,
+  "waveHeight": 2.36,
+  "windDirection": 145.98,
+  "windSpeed": 2.13
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T03:00:00+00:00",
+  "swellDirection": 207.43,
+  "swellHeight": 2.37,
+  "swellPeriod": 13.86,
+  "waveDirection": 207.65,
+  "waveHeight": 2.37,
+  "windDirection": 122.16,
+  "windSpeed": 1.44
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T04:00:00+00:00",
+  "swellDirection": 207.24,
+  "swellHeight": 2.38,
+  "swellPeriod": 13.8,
+  "waveDirection": 207.26,
+  "waveHeight": 2.38,
+  "windDirection": 79.19,
+  "windSpeed": 1.94
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T05:00:00+00:00",
+  "swellDirection": 207.05,
+  "swellHeight": 2.38,
+  "swellPeriod": 13.75,
+  "waveDirection": 206.87,
+  "waveHeight": 2.38,
+  "windDirection": 36.22,
+  "windSpeed": 2.45
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T06:00:00+00:00",
+  "swellDirection": 206.86,
+  "swellHeight": 2.39,
+  "swellPeriod": 13.69,
+  "waveDirection": 206.48,
+  "waveHeight": 2.39,
+  "windDirection": 353.25,
+  "windSpeed": 2.95
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T07:00:00+00:00",
+  "swellDirection": 206.72,
+  "swellHeight": 2.39,
+  "swellPeriod": 13.69,
+  "waveDirection": 206.09,
+  "waveHeight": 2.39,
+  "windDirection": 347.12,
+  "windSpeed": 2.61
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T08:00:00+00:00",
+  "swellDirection": 206.58,
+  "swellHeight": 2.38,
+  "swellPeriod": 13.69,
+  "waveDirection": 205.69,
+  "waveHeight": 2.38,
+  "windDirection": 340.99,
+  "windSpeed": 2.28
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T09:00:00+00:00",
+  "swellDirection": 206.44,
+  "swellHeight": 2.38,
+  "swellPeriod": 13.69,
+  "waveDirection": 205.3,
+  "waveHeight": 2.38,
+  "windDirection": 334.86,
+  "windSpeed": 1.94
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T10:00:00+00:00",
+  "swellDirection": 206.27,
+  "swellHeight": 2.37,
+  "swellPeriod": 13.81,
+  "waveDirection": 204.51,
+  "waveHeight": 2.37,
+  "windDirection": 340.35,
+  "windSpeed": 1.58
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T11:00:00+00:00",
+  "swellDirection": 206.11,
+  "swellHeight": 2.36,
+  "swellPeriod": 13.92,
+  "waveDirection": 203.72,
+  "waveHeight": 2.36,
+  "windDirection": 345.84,
+  "windSpeed": 1.23
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T12:00:00+00:00",
+  "swellDirection": 205.94,
+  "swellHeight": 2.35,
+  "swellPeriod": 14.04,
+  "waveDirection": 202.93,
+  "waveHeight": 2.35,
+  "windDirection": 351.33,
+  "windSpeed": 0.87
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T13:00:00+00:00",
+  "swellDirection": 205.79,
+  "swellHeight": 2.34,
+  "swellPeriod": 14.04,
+  "waveDirection": 202.79,
+  "waveHeight": 2.34,
+  "windDirection": 329.65,
+  "windSpeed": 1.48
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T14:00:00+00:00",
+  "swellDirection": 205.64,
+  "swellHeight": 2.32,
+  "swellPeriod": 14.04,
+  "waveDirection": 202.66,
+  "waveHeight": 2.32,
+  "windDirection": 307.98,
+  "windSpeed": 2.1
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T15:00:00+00:00",
+  "swellDirection": 205.49,
+  "swellHeight": 2.31,
+  "swellPeriod": 14.04,
+  "waveDirection": 202.52,
+  "waveHeight": 2.31,
+  "windDirection": 286.3,
+  "windSpeed": 2.71
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T16:00:00+00:00",
+  "swellDirection": 205.45,
+  "swellHeight": 2.29,
+  "swellPeriod": 13.93,
+  "waveDirection": 202.68,
+  "waveHeight": 2.29,
+  "windDirection": 280.38,
+  "windSpeed": 3.36
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T17:00:00+00:00",
+  "swellDirection": 205.42,
+  "swellHeight": 2.27,
+  "swellPeriod": 13.81,
+  "waveDirection": 202.85,
+  "waveHeight": 2.27,
+  "windDirection": 274.46,
+  "windSpeed": 4.01
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T18:00:00+00:00",
+  "swellDirection": 205.38,
+  "swellHeight": 2.25,
+  "swellPeriod": 13.7,
+  "waveDirection": 203.01,
+  "waveHeight": 2.25,
+  "windDirection": 268.54,
+  "windSpeed": 4.66
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T19:00:00+00:00",
+  "swellDirection": 205.26,
+  "swellHeight": 2.22,
+  "swellPeriod": 13.63,
+  "waveDirection": 202.8,
+  "waveHeight": 2.22,
+  "windDirection": 255.76,
+  "windSpeed": 4.02
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T20:00:00+00:00",
+  "swellDirection": 205.14,
+  "swellHeight": 2.19,
+  "swellPeriod": 13.56,
+  "waveDirection": 202.58,
+  "waveHeight": 2.19,
+  "windDirection": 242.98,
+  "windSpeed": 3.39
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T21:00:00+00:00",
+  "swellDirection": 205.02,
+  "swellHeight": 2.16,
+  "swellPeriod": 13.49,
+  "waveDirection": 202.37,
+  "waveHeight": 2.16,
+  "windDirection": 230.2,
+  "windSpeed": 2.75
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T22:00:00+00:00",
+  "swellDirection": 204.88,
+  "swellHeight": 2.13,
+  "swellPeriod": 13.46,
+  "waveDirection": 202.11,
+  "waveHeight": 2.13,
+  "windDirection": 218.74,
+  "windSpeed": 3.41
+  }
+  ]
+  },
+  {
+  "time": "2023-07-10T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-10T23:00:00+00:00",
+  "swellDirection": 204.75,
+  "swellHeight": 2.1,
+  "swellPeriod": 13.42,
+  "waveDirection": 201.85,
+  "waveHeight": 2.1,
+  "windDirection": 207.29,
+  "windSpeed": 4.06
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T00:00:00+00:00",
+  "swellDirection": 204.61,
+  "swellHeight": 2.07,
+  "swellPeriod": 13.39,
+  "waveDirection": 201.59,
+  "waveHeight": 2.07,
+  "windDirection": 195.83,
+  "windSpeed": 4.72
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T01:00:00+00:00",
+  "swellDirection": 204.48,
+  "swellHeight": 2.04,
+  "swellPeriod": 13.36,
+  "waveDirection": 201.31,
+  "waveHeight": 2.04,
+  "windDirection": 187.04,
+  "windSpeed": 4.26
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T02:00:00+00:00",
+  "swellDirection": 204.34,
+  "swellHeight": 2,
+  "swellPeriod": 13.33,
+  "waveDirection": 201.03,
+  "waveHeight": 2,
+  "windDirection": 178.24,
+  "windSpeed": 3.79
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T03:00:00+00:00",
+  "swellDirection": 204.21,
+  "swellHeight": 1.97,
+  "swellPeriod": 13.3,
+  "waveDirection": 200.75,
+  "waveHeight": 1.97,
+  "windDirection": 169.45,
+  "windSpeed": 3.33
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T04:00:00+00:00",
+  "swellDirection": 204.11,
+  "swellHeight": 1.93,
+  "swellPeriod": 13.26,
+  "waveDirection": 200.47,
+  "waveHeight": 1.93,
+  "windDirection": 165.73,
+  "windSpeed": 2.51
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T05:00:00+00:00",
+  "swellDirection": 204.02,
+  "swellHeight": 1.9,
+  "swellPeriod": 13.22,
+  "waveDirection": 200.19,
+  "waveHeight": 1.9,
+  "windDirection": 162.01,
+  "windSpeed": 1.7
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T06:00:00+00:00",
+  "swellDirection": 203.92,
+  "swellHeight": 1.86,
+  "swellPeriod": 13.18,
+  "waveDirection": 199.91,
+  "waveHeight": 1.86,
+  "windDirection": 158.29,
+  "windSpeed": 0.88
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T07:00:00+00:00",
+  "swellDirection": 203.84,
+  "swellHeight": 1.82,
+  "swellPeriod": 13.06,
+  "waveDirection": 199.91,
+  "waveHeight": 1.82,
+  "windDirection": 125.66,
+  "windSpeed": 1.31
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T08:00:00+00:00",
+  "swellDirection": 203.77,
+  "swellHeight": 1.78,
+  "swellPeriod": 12.95,
+  "waveDirection": 199.91,
+  "waveHeight": 1.78,
+  "windDirection": 93.02,
+  "windSpeed": 1.75
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T09:00:00+00:00",
+  "swellDirection": 203.69,
+  "swellHeight": 1.74,
+  "swellPeriod": 12.83,
+  "waveDirection": 199.91,
+  "waveHeight": 1.74,
+  "windDirection": 60.39,
+  "windSpeed": 2.18
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T10:00:00+00:00",
+  "swellDirection": 203.63,
+  "swellHeight": 1.7,
+  "swellPeriod": 12.77,
+  "waveDirection": 199.68,
+  "waveHeight": 1.7,
+  "windDirection": 14.08,
+  "windSpeed": 2.43
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T11:00:00+00:00",
+  "swellDirection": 203.58,
+  "swellHeight": 1.67,
+  "swellPeriod": 12.71,
+  "waveDirection": 199.45,
+  "waveHeight": 1.67,
+  "windDirection": 327.76,
+  "windSpeed": 2.68
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T12:00:00+00:00",
+  "swellDirection": 203.52,
+  "swellHeight": 1.63,
+  "swellPeriod": 12.65,
+  "waveDirection": 199.22,
+  "waveHeight": 1.63,
+  "windDirection": 281.45,
+  "windSpeed": 2.93
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T13:00:00+00:00",
+  "swellDirection": 203.55,
+  "swellHeight": 1.6,
+  "swellPeriod": 12.62,
+  "waveDirection": 198.96,
+  "waveHeight": 1.6,
+  "windDirection": 275.49,
+  "windSpeed": 3.39
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T14:00:00+00:00",
+  "swellDirection": 203.59,
+  "swellHeight": 1.58,
+  "swellPeriod": 12.59,
+  "waveDirection": 198.69,
+  "waveHeight": 1.58,
+  "windDirection": 269.53,
+  "windSpeed": 3.86
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T15:00:00+00:00",
+  "swellDirection": 203.62,
+  "swellHeight": 1.55,
+  "swellPeriod": 12.56,
+  "waveDirection": 198.43,
+  "waveHeight": 1.55,
+  "windDirection": 263.57,
+  "windSpeed": 4.32
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T16:00:00+00:00",
+  "swellDirection": 204.04,
+  "swellHeight": 1.53,
+  "swellPeriod": 12.53,
+  "waveDirection": 198.2,
+  "waveHeight": 1.53,
+  "windDirection": 259.39,
+  "windSpeed": 4.69
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T17:00:00+00:00",
+  "swellDirection": 204.45,
+  "swellHeight": 1.52,
+  "swellPeriod": 12.51,
+  "waveDirection": 197.97,
+  "waveHeight": 1.52,
+  "windDirection": 255.21,
+  "windSpeed": 5.06
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T18:00:00+00:00",
+  "swellDirection": 204.87,
+  "swellHeight": 1.5,
+  "swellPeriod": 12.48,
+  "waveDirection": 197.74,
+  "waveHeight": 1.5,
+  "windDirection": 251.03,
+  "windSpeed": 5.43
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T19:00:00+00:00",
+  "swellDirection": 204.77,
+  "swellHeight": 1.47,
+  "swellPeriod": 12.44,
+  "waveDirection": 197.56,
+  "waveHeight": 1.48,
+  "windDirection": 239.56,
+  "windSpeed": 5.18
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T20:00:00+00:00",
+  "swellDirection": 204.67,
+  "swellHeight": 1.44,
+  "swellPeriod": 12.39,
+  "waveDirection": 197.39,
+  "waveHeight": 1.45,
+  "windDirection": 228.1,
+  "windSpeed": 4.92
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T21:00:00+00:00",
+  "swellDirection": 204.57,
+  "swellHeight": 1.41,
+  "swellPeriod": 12.35,
+  "waveDirection": 197.21,
+  "waveHeight": 1.43,
+  "windDirection": 216.63,
+  "windSpeed": 4.67
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T22:00:00+00:00",
+  "swellDirection": 204.5,
+  "swellHeight": 1.39,
+  "swellPeriod": 12.27,
+  "waveDirection": 197.26,
+  "waveHeight": 1.41,
+  "windDirection": 207.53,
+  "windSpeed": 4.81
+  }
+  ]
+  },
+  {
+  "time": "2023-07-11T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-11T23:00:00+00:00",
+  "swellDirection": 204.43,
+  "swellHeight": 1.36,
+  "swellPeriod": 12.19,
+  "waveDirection": 197.32,
+  "waveHeight": 1.38,
+  "windDirection": 198.43,
+  "windSpeed": 4.94
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T00:00:00+00:00",
+  "swellDirection": 204.36,
+  "swellHeight": 1.34,
+  "swellPeriod": 12.11,
+  "waveDirection": 197.37,
+  "waveHeight": 1.36,
+  "windDirection": 189.33,
+  "windSpeed": 5.08
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T01:00:00+00:00",
+  "swellDirection": 204.29,
+  "swellHeight": 1.31,
+  "swellPeriod": 12.05,
+  "waveDirection": 197.29,
+  "waveHeight": 1.34,
+  "windDirection": 184.63,
+  "windSpeed": 4.97
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T02:00:00+00:00",
+  "swellDirection": 204.23,
+  "swellHeight": 1.29,
+  "swellPeriod": 11.98,
+  "waveDirection": 197.22,
+  "waveHeight": 1.32,
+  "windDirection": 179.93,
+  "windSpeed": 4.85
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T03:00:00+00:00",
+  "swellDirection": 204.16,
+  "swellHeight": 1.26,
+  "swellPeriod": 11.92,
+  "waveDirection": 197.14,
+  "waveHeight": 1.3,
+  "windDirection": 175.23,
+  "windSpeed": 4.74
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T04:00:00+00:00",
+  "swellDirection": 204.51,
+  "swellHeight": 1.23,
+  "swellPeriod": 11.88,
+  "waveDirection": 197.04,
+  "waveHeight": 1.27,
+  "windDirection": 198.21,
+  "windSpeed": 3.34
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T05:00:00+00:00",
+  "swellDirection": 204.87,
+  "swellHeight": 1.2,
+  "swellPeriod": 11.84,
+  "waveDirection": 196.95,
+  "waveHeight": 1.25,
+  "windDirection": 221.19,
+  "windSpeed": 1.93
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T06:00:00+00:00",
+  "swellDirection": 205.22,
+  "swellHeight": 1.17,
+  "swellPeriod": 11.8,
+  "waveDirection": 196.85,
+  "waveHeight": 1.22,
+  "windDirection": 244.17,
+  "windSpeed": 0.53
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T07:00:00+00:00",
+  "swellDirection": 205.5,
+  "swellHeight": 1.15,
+  "swellPeriod": 11.77,
+  "waveDirection": 196.71,
+  "waveHeight": 1.2,
+  "windDirection": 291.07,
+  "windSpeed": 1.27
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T08:00:00+00:00",
+  "swellDirection": 205.79,
+  "swellHeight": 1.12,
+  "swellPeriod": 11.73,
+  "waveDirection": 196.56,
+  "waveHeight": 1.18,
+  "windDirection": 337.96,
+  "windSpeed": 2
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T09:00:00+00:00",
+  "swellDirection": 206.07,
+  "swellHeight": 1.1,
+  "swellPeriod": 11.7,
+  "waveDirection": 196.42,
+  "waveHeight": 1.16,
+  "windDirection": 24.86,
+  "windSpeed": 2.74
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T10:00:00+00:00",
+  "swellDirection": 206.29,
+  "swellHeight": 1.08,
+  "swellPeriod": 11.66,
+  "waveDirection": 200.17,
+  "waveHeight": 1.15,
+  "windDirection": 349.6,
+  "windSpeed": 3.19
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T11:00:00+00:00",
+  "swellDirection": 206.51,
+  "swellHeight": 1.05,
+  "swellPeriod": 11.63,
+  "waveDirection": 203.92,
+  "waveHeight": 1.14,
+  "windDirection": 314.35,
+  "windSpeed": 3.63
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T12:00:00+00:00",
+  "swellDirection": 206.73,
+  "swellHeight": 1.03,
+  "swellPeriod": 11.59,
+  "waveDirection": 207.67,
+  "waveHeight": 1.13,
+  "windDirection": 279.09,
+  "windSpeed": 4.08
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T13:00:00+00:00",
+  "swellDirection": 206.98,
+  "swellHeight": 1.01,
+  "swellPeriod": 11.52,
+  "waveDirection": 209.47,
+  "waveHeight": 1.12,
+  "windDirection": 272.98,
+  "windSpeed": 3.96
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T14:00:00+00:00",
+  "swellDirection": 207.23,
+  "swellHeight": 0.98,
+  "swellPeriod": 11.44,
+  "waveDirection": 211.28,
+  "waveHeight": 1.11,
+  "windDirection": 266.87,
+  "windSpeed": 3.85
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T15:00:00+00:00",
+  "swellDirection": 207.48,
+  "swellHeight": 0.96,
+  "swellPeriod": 11.37,
+  "waveDirection": 213.08,
+  "waveHeight": 1.1,
+  "windDirection": 260.76,
+  "windSpeed": 3.73
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T16:00:00+00:00",
+  "swellDirection": 207.94,
+  "swellHeight": 0.95,
+  "swellPeriod": 11.73,
+  "waveDirection": 213.44,
+  "waveHeight": 1.1,
+  "windDirection": 254.55,
+  "windSpeed": 4.28
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T17:00:00+00:00",
+  "swellDirection": 208.39,
+  "swellHeight": 0.94,
+  "swellPeriod": 12.08,
+  "waveDirection": 213.81,
+  "waveHeight": 1.1,
+  "windDirection": 248.34,
+  "windSpeed": 4.82
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T18:00:00+00:00",
+  "swellDirection": 208.85,
+  "swellHeight": 0.93,
+  "swellPeriod": 12.44,
+  "waveDirection": 214.17,
+  "waveHeight": 1.1,
+  "windDirection": 242.13,
+  "windSpeed": 5.37
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T19:00:00+00:00",
+  "swellDirection": 209.35,
+  "swellHeight": 0.92,
+  "swellPeriod": 12.43,
+  "waveDirection": 214.05,
+  "waveHeight": 1.1,
+  "windDirection": 233.99,
+  "windSpeed": 5.31
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T20:00:00+00:00",
+  "swellDirection": 209.84,
+  "swellHeight": 0.92,
+  "swellPeriod": 12.43,
+  "waveDirection": 213.93,
+  "waveHeight": 1.09,
+  "windDirection": 225.85,
+  "windSpeed": 5.26
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T21:00:00+00:00",
+  "swellDirection": 210.34,
+  "swellHeight": 0.91,
+  "swellPeriod": 12.42,
+  "waveDirection": 213.81,
+  "waveHeight": 1.09,
+  "windDirection": 217.71,
+  "windSpeed": 5.2
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T22:00:00+00:00",
+  "swellDirection": 210.13,
+  "swellHeight": 0.9,
+  "swellPeriod": 12.36,
+  "waveDirection": 213.66,
+  "waveHeight": 1.09,
+  "windDirection": 208.63,
+  "windSpeed": 4.89
+  }
+  ]
+  },
+  {
+  "time": "2023-07-12T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-12T23:00:00+00:00",
+  "swellDirection": 209.91,
+  "swellHeight": 0.9,
+  "swellPeriod": 12.3,
+  "waveDirection": 213.51,
+  "waveHeight": 1.08,
+  "windDirection": 199.56,
+  "windSpeed": 4.58
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T00:00:00+00:00",
+  "swellDirection": 209.7,
+  "swellHeight": 0.89,
+  "swellPeriod": 12.24,
+  "waveDirection": 213.36,
+  "waveHeight": 1.08,
+  "windDirection": 190.48,
+  "windSpeed": 4.27
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T01:00:00+00:00",
+  "swellDirection": 209.58,
+  "swellHeight": 0.87,
+  "swellPeriod": 12.08,
+  "waveDirection": 213.62,
+  "waveHeight": 1.07,
+  "windDirection": 167.01,
+  "windSpeed": 3.95
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T02:00:00+00:00",
+  "swellDirection": 209.47,
+  "swellHeight": 0.84,
+  "swellPeriod": 11.93,
+  "waveDirection": 213.87,
+  "waveHeight": 1.05,
+  "windDirection": 143.54,
+  "windSpeed": 3.62
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T03:00:00+00:00",
+  "swellDirection": 209.35,
+  "swellHeight": 0.82,
+  "swellPeriod": 11.77,
+  "waveDirection": 214.13,
+  "waveHeight": 1.04,
+  "windDirection": 120.07,
+  "windSpeed": 3.3
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T04:00:00+00:00",
+  "swellDirection": 209.46,
+  "swellHeight": 0.8,
+  "swellPeriod": 11.73,
+  "waveDirection": 214.38,
+  "waveHeight": 1.02,
+  "windDirection": 90.21,
+  "windSpeed": 2.59
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T05:00:00+00:00",
+  "swellDirection": 209.58,
+  "swellHeight": 0.79,
+  "swellPeriod": 11.69,
+  "waveDirection": 214.62,
+  "waveHeight": 1.01,
+  "windDirection": 60.36,
+  "windSpeed": 1.87
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T06:00:00+00:00",
+  "swellDirection": 209.69,
+  "swellHeight": 0.77,
+  "swellPeriod": 11.65,
+  "waveDirection": 214.87,
+  "waveHeight": 0.99,
+  "windDirection": 30.5,
+  "windSpeed": 1.16
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T07:00:00+00:00",
+  "swellDirection": 209.8,
+  "swellHeight": 0.76,
+  "swellPeriod": 11.63,
+  "waveDirection": 214.72,
+  "waveHeight": 0.98,
+  "windDirection": 12.37,
+  "windSpeed": 1.11
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T08:00:00+00:00",
+  "swellDirection": 209.9,
+  "swellHeight": 0.74,
+  "swellPeriod": 11.62,
+  "waveDirection": 214.58,
+  "waveHeight": 0.96,
+  "windDirection": 354.23,
+  "windSpeed": 1.06
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T09:00:00+00:00",
+  "swellDirection": 210.01,
+  "swellHeight": 0.73,
+  "swellPeriod": 11.6,
+  "waveDirection": 214.43,
+  "waveHeight": 0.95,
+  "windDirection": 336.1,
+  "windSpeed": 1.01
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T10:00:00+00:00",
+  "swellDirection": 211.63,
+  "swellHeight": 0.71,
+  "swellPeriod": 12.47,
+  "waveDirection": 214.25,
+  "waveHeight": 0.94,
+  "windDirection": 327.45,
+  "windSpeed": 1.23
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T11:00:00+00:00",
+  "swellDirection": 213.25,
+  "swellHeight": 0.68,
+  "swellPeriod": 13.35,
+  "waveDirection": 214.07,
+  "waveHeight": 0.92,
+  "windDirection": 318.81,
+  "windSpeed": 1.45
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T12:00:00+00:00",
+  "swellDirection": 214.87,
+  "swellHeight": 0.66,
+  "swellPeriod": 14.22,
+  "waveDirection": 213.89,
+  "waveHeight": 0.91,
+  "windDirection": 310.16,
+  "windSpeed": 1.67
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T13:00:00+00:00",
+  "swellDirection": 215.1,
+  "swellHeight": 0.65,
+  "swellPeriod": 14.12,
+  "waveDirection": 214.88,
+  "waveHeight": 0.9,
+  "windDirection": 294.74,
+  "windSpeed": 2.61
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T14:00:00+00:00",
+  "swellDirection": 215.34,
+  "swellHeight": 0.65,
+  "swellPeriod": 14.01,
+  "waveDirection": 215.87,
+  "waveHeight": 0.9,
+  "windDirection": 279.32,
+  "windSpeed": 3.54
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T15:00:00+00:00",
+  "swellDirection": 215.57,
+  "swellHeight": 0.64,
+  "swellPeriod": 13.91,
+  "waveDirection": 216.86,
+  "waveHeight": 0.89,
+  "windDirection": 263.9,
+  "windSpeed": 4.48
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T16:00:00+00:00",
+  "swellDirection": 215.61,
+  "swellHeight": 0.63,
+  "swellPeriod": 13.83,
+  "waveDirection": 216.71,
+  "waveHeight": 0.89,
+  "windDirection": 257.72,
+  "windSpeed": 4.9
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T17:00:00+00:00",
+  "swellDirection": 215.65,
+  "swellHeight": 0.63,
+  "swellPeriod": 13.74,
+  "waveDirection": 216.55,
+  "waveHeight": 0.9,
+  "windDirection": 251.54,
+  "windSpeed": 5.31
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T18:00:00+00:00",
+  "swellDirection": 215.69,
+  "swellHeight": 0.62,
+  "swellPeriod": 13.66,
+  "waveDirection": 216.4,
+  "waveHeight": 0.9,
+  "windDirection": 245.36,
+  "windSpeed": 5.73
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T19:00:00+00:00",
+  "swellDirection": 212.24,
+  "swellHeight": 0.46,
+  "swellPeriod": 14.74,
+  "waveDirection": 216.12,
+  "waveHeight": 0.88,
+  "windDirection": 231.61,
+  "windSpeed": 5.29
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T20:00:00+00:00",
+  "swellDirection": 208.79,
+  "swellHeight": 0.31,
+  "swellPeriod": 15.82,
+  "waveDirection": 215.83,
+  "waveHeight": 0.86,
+  "windDirection": 217.85,
+  "windSpeed": 4.86
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T21:00:00+00:00",
+  "swellDirection": 205.34,
+  "swellHeight": 0.15,
+  "swellPeriod": 16.9,
+  "waveDirection": 215.55,
+  "waveHeight": 0.84,
+  "windDirection": 204.1,
+  "windSpeed": 4.42
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T22:00:00+00:00",
+  "swellDirection": 205.97,
+  "swellHeight": 0.16,
+  "swellPeriod": 16.87,
+  "waveDirection": 215.37,
+  "waveHeight": 0.83,
+  "windDirection": 202.78,
+  "windSpeed": 4.52
+  }
+  ]
+  },
+  {
+  "time": "2023-07-13T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-13T23:00:00+00:00",
+  "swellDirection": 206.6,
+  "swellHeight": 0.16,
+  "swellPeriod": 16.84,
+  "waveDirection": 215.2,
+  "waveHeight": 0.82,
+  "windDirection": 201.46,
+  "windSpeed": 4.62
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T00:00:00+00:00",
+  "swellDirection": 207.23,
+  "swellHeight": 0.17,
+  "swellPeriod": 16.81,
+  "waveDirection": 215.02,
+  "waveHeight": 0.81,
+  "windDirection": 200.14,
+  "windSpeed": 4.72
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T01:00:00+00:00",
+  "swellDirection": 207.67,
+  "swellHeight": 0.19,
+  "swellPeriod": 16.64,
+  "waveDirection": 214.98,
+  "waveHeight": 0.8,
+  "windDirection": 183.86,
+  "windSpeed": 3.63
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T02:00:00+00:00",
+  "swellDirection": 208.12,
+  "swellHeight": 0.22,
+  "swellPeriod": 16.47,
+  "waveDirection": 214.94,
+  "waveHeight": 0.8,
+  "windDirection": 167.57,
+  "windSpeed": 2.53
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T03:00:00+00:00",
+  "swellDirection": 208.56,
+  "swellHeight": 0.24,
+  "swellPeriod": 16.3,
+  "waveDirection": 214.9,
+  "waveHeight": 0.79,
+  "windDirection": 151.29,
+  "windSpeed": 1.44
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T04:00:00+00:00",
+  "swellDirection": 210.71,
+  "swellHeight": 0.26,
+  "swellPeriod": 14.15,
+  "waveDirection": 215.96,
+  "waveHeight": 0.78,
+  "windDirection": 197.84,
+  "windSpeed": 1.25
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T05:00:00+00:00",
+  "swellDirection": 212.86,
+  "swellHeight": 0.27,
+  "swellPeriod": 12.01,
+  "waveDirection": 217.03,
+  "waveHeight": 0.78,
+  "windDirection": 244.4,
+  "windSpeed": 1.07
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T06:00:00+00:00",
+  "swellDirection": 215.01,
+  "swellHeight": 0.29,
+  "swellPeriod": 9.86,
+  "waveDirection": 218.09,
+  "waveHeight": 0.77,
+  "windDirection": 290.95,
+  "windSpeed": 0.88
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T07:00:00+00:00",
+  "swellDirection": 212.39,
+  "swellHeight": 0.29,
+  "swellPeriod": 11.34,
+  "waveDirection": 217.78,
+  "waveHeight": 0.77,
+  "windDirection": 291.73,
+  "windSpeed": 1.17
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T08:00:00+00:00",
+  "swellDirection": 209.77,
+  "swellHeight": 0.3,
+  "swellPeriod": 12.83,
+  "waveDirection": 217.48,
+  "waveHeight": 0.77,
+  "windDirection": 292.52,
+  "windSpeed": 1.47
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T09:00:00+00:00",
+  "swellDirection": 207.15,
+  "swellHeight": 0.3,
+  "swellPeriod": 14.31,
+  "waveDirection": 217.17,
+  "waveHeight": 0.77,
+  "windDirection": 293.3,
+  "windSpeed": 1.76
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T10:00:00+00:00",
+  "swellDirection": 207.6,
+  "swellHeight": 0.3,
+  "swellPeriod": 14.73,
+  "waveDirection": 216.96,
+  "waveHeight": 0.77,
+  "windDirection": 275.3,
+  "windSpeed": 1.72
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T11:00:00+00:00",
+  "swellDirection": 208.05,
+  "swellHeight": 0.31,
+  "swellPeriod": 15.16,
+  "waveDirection": 216.74,
+  "waveHeight": 0.78,
+  "windDirection": 257.3,
+  "windSpeed": 1.69
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T12:00:00+00:00",
+  "swellDirection": 208.5,
+  "swellHeight": 0.31,
+  "swellPeriod": 15.58,
+  "waveDirection": 216.53,
+  "waveHeight": 0.78,
+  "windDirection": 239.3,
+  "windSpeed": 1.65
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T13:00:00+00:00",
+  "swellDirection": 207.37,
+  "swellHeight": 0.31,
+  "swellPeriod": 15.38,
+  "waveDirection": 216.43,
+  "waveHeight": 0.78,
+  "windDirection": 238.53,
+  "windSpeed": 2.1
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T14:00:00+00:00",
+  "swellDirection": 206.25,
+  "swellHeight": 0.31,
+  "swellPeriod": 15.17,
+  "waveDirection": 216.32,
+  "waveHeight": 0.79,
+  "windDirection": 237.76,
+  "windSpeed": 2.54
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T15:00:00+00:00",
+  "swellDirection": 205.12,
+  "swellHeight": 0.31,
+  "swellPeriod": 14.97,
+  "waveDirection": 216.22,
+  "waveHeight": 0.79,
+  "windDirection": 236.99,
+  "windSpeed": 2.99
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T16:00:00+00:00",
+  "swellDirection": 205.4,
+  "swellHeight": 0.32,
+  "swellPeriod": 14.93,
+  "waveDirection": 218.19,
+  "waveHeight": 0.8,
+  "windDirection": 235.01,
+  "windSpeed": 3.42
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T17:00:00+00:00",
+  "swellDirection": 205.68,
+  "swellHeight": 0.33,
+  "swellPeriod": 14.89,
+  "waveDirection": 220.15,
+  "waveHeight": 0.8,
+  "windDirection": 233.04,
+  "windSpeed": 3.86
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T18:00:00+00:00",
+  "swellDirection": 205.96,
+  "swellHeight": 0.34,
+  "swellPeriod": 14.85,
+  "waveDirection": 222.12,
+  "waveHeight": 0.81,
+  "windDirection": 231.06,
+  "windSpeed": 4.29
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T19:00:00+00:00",
+  "swellDirection": 215.18,
+  "swellHeight": 0.33,
+  "swellPeriod": 15.05,
+  "waveDirection": 222.9,
+  "waveHeight": 0.82,
+  "windDirection": 222.01,
+  "windSpeed": 4.63
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T20:00:00+00:00",
+  "swellDirection": 224.41,
+  "swellHeight": 0.33,
+  "swellPeriod": 15.24,
+  "waveDirection": 223.69,
+  "waveHeight": 0.84,
+  "windDirection": 212.95,
+  "windSpeed": 4.96
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T21:00:00+00:00",
+  "swellDirection": 233.63,
+  "swellHeight": 0.32,
+  "swellPeriod": 15.44,
+  "waveDirection": 224.47,
+  "waveHeight": 0.85,
+  "windDirection": 203.9,
+  "windSpeed": 5.3
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T22:00:00+00:00",
+  "swellDirection": 222.63,
+  "swellHeight": 0.32,
+  "swellPeriod": 15.13,
+  "waveDirection": 223.55,
+  "waveHeight": 0.88,
+  "windDirection": 198.28,
+  "windSpeed": 5.64
+  }
+  ]
+  },
+  {
+  "time": "2023-07-14T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-14T23:00:00+00:00",
+  "swellDirection": 211.63,
+  "swellHeight": 0.32,
+  "swellPeriod": 14.81,
+  "waveDirection": 222.63,
+  "waveHeight": 0.91,
+  "windDirection": 192.65,
+  "windSpeed": 5.99
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T00:00:00+00:00",
+  "swellDirection": 200.63,
+  "swellHeight": 0.32,
+  "swellPeriod": 14.5,
+  "waveDirection": 221.71,
+  "waveHeight": 0.94,
+  "windDirection": 187.03,
+  "windSpeed": 6.33
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T01:00:00+00:00",
+  "swellDirection": 205.78,
+  "swellHeight": 0.35,
+  "swellPeriod": 13.58,
+  "waveDirection": 223.07,
+  "waveHeight": 0.96,
+  "windDirection": 177.09,
+  "windSpeed": 5.51
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T02:00:00+00:00",
+  "swellDirection": 210.93,
+  "swellHeight": 0.37,
+  "swellPeriod": 12.67,
+  "waveDirection": 224.43,
+  "waveHeight": 0.98,
+  "windDirection": 167.14,
+  "windSpeed": 4.69
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T03:00:00+00:00",
+  "swellDirection": 216.08,
+  "swellHeight": 0.4,
+  "swellPeriod": 11.75,
+  "waveDirection": 225.79,
+  "waveHeight": 1,
+  "windDirection": 157.2,
+  "windSpeed": 3.87
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T04:00:00+00:00",
+  "swellDirection": 215.93,
+  "swellHeight": 0.39,
+  "swellPeriod": 11.74,
+  "waveDirection": 226.09,
+  "waveHeight": 1.02,
+  "windDirection": 146.15,
+  "windSpeed": 2.93
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T05:00:00+00:00",
+  "swellDirection": 215.77,
+  "swellHeight": 0.38,
+  "swellPeriod": 11.74,
+  "waveDirection": 226.4,
+  "waveHeight": 1.05,
+  "windDirection": 135.09,
+  "windSpeed": 2
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T06:00:00+00:00",
+  "swellDirection": 215.62,
+  "swellHeight": 0.37,
+  "swellPeriod": 11.73,
+  "waveDirection": 226.7,
+  "waveHeight": 1.07,
+  "windDirection": 124.04,
+  "windSpeed": 1.06
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T07:00:00+00:00",
+  "swellDirection": 208.67,
+  "swellHeight": 0.28,
+  "swellPeriod": 10.75,
+  "waveDirection": 225.85,
+  "waveHeight": 1.08,
+  "windDirection": 166.46,
+  "windSpeed": 1.11
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T08:00:00+00:00",
+  "swellDirection": 201.71,
+  "swellHeight": 0.18,
+  "swellPeriod": 9.76,
+  "waveDirection": 225.01,
+  "waveHeight": 1.1,
+  "windDirection": 208.88,
+  "windSpeed": 1.16
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T09:00:00+00:00",
+  "swellDirection": 194.76,
+  "swellHeight": 0.09,
+  "swellPeriod": 8.78,
+  "waveDirection": 224.16,
+  "waveHeight": 1.11,
+  "windDirection": 251.3,
+  "windSpeed": 1.21
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T10:00:00+00:00",
+  "swellDirection": 200.9,
+  "swellHeight": 0.34,
+  "swellPeriod": 7.79,
+  "waveDirection": 224.97,
+  "waveHeight": 1.12,
+  "windDirection": 248.49,
+  "windSpeed": 1.71
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T11:00:00+00:00",
+  "swellDirection": 207.04,
+  "swellHeight": 0.58,
+  "swellPeriod": 6.79,
+  "waveDirection": 225.79,
+  "waveHeight": 1.14,
+  "windDirection": 245.69,
+  "windSpeed": 2.21
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T12:00:00+00:00",
+  "swellDirection": 213.18,
+  "swellHeight": 0.83,
+  "swellPeriod": 5.8,
+  "waveDirection": 226.6,
+  "waveHeight": 1.15,
+  "windDirection": 242.88,
+  "windSpeed": 2.71
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T13:00:00+00:00",
+  "swellDirection": 215.84,
+  "swellHeight": 0.83,
+  "swellPeriod": 8.37,
+  "waveDirection": 226.64,
+  "waveHeight": 1.16,
+  "windDirection": 255.6,
+  "windSpeed": 2.75
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T14:00:00+00:00",
+  "swellDirection": 218.5,
+  "swellHeight": 0.83,
+  "swellPeriod": 10.95,
+  "waveDirection": 226.69,
+  "waveHeight": 1.16,
+  "windDirection": 268.33,
+  "windSpeed": 2.8
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T15:00:00+00:00",
+  "swellDirection": 221.16,
+  "swellHeight": 0.83,
+  "swellPeriod": 13.52,
+  "waveDirection": 226.73,
+  "waveHeight": 1.17,
+  "windDirection": 281.05,
+  "windSpeed": 2.84
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T16:00:00+00:00",
+  "swellDirection": 220.95,
+  "swellHeight": 0.84,
+  "swellPeriod": 13.47,
+  "waveDirection": 225.77,
+  "waveHeight": 1.18,
+  "windDirection": 274.41,
+  "windSpeed": 3.94
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T17:00:00+00:00",
+  "swellDirection": 220.73,
+  "swellHeight": 0.85,
+  "swellPeriod": 13.41,
+  "waveDirection": 224.82,
+  "waveHeight": 1.19,
+  "windDirection": 267.78,
+  "windSpeed": 5.05
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T18:00:00+00:00",
+  "swellDirection": 220.52,
+  "swellHeight": 0.86,
+  "swellPeriod": 13.36,
+  "waveDirection": 223.86,
+  "waveHeight": 1.2,
+  "windDirection": 261.14,
+  "windSpeed": 6.15
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T19:00:00+00:00",
+  "swellDirection": 220.27,
+  "swellHeight": 0.86,
+  "swellPeriod": 13.21,
+  "waveDirection": 224.66,
+  "waveHeight": 1.2,
+  "windDirection": 250.16,
+  "windSpeed": 5.58
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T20:00:00+00:00",
+  "swellDirection": 220.03,
+  "swellHeight": 0.87,
+  "swellPeriod": 13.05,
+  "waveDirection": 225.46,
+  "waveHeight": 1.21,
+  "windDirection": 239.17,
+  "windSpeed": 5.01
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T21:00:00+00:00",
+  "swellDirection": 219.78,
+  "swellHeight": 0.87,
+  "swellPeriod": 12.9,
+  "waveDirection": 226.26,
+  "waveHeight": 1.21,
+  "windDirection": 228.19,
+  "windSpeed": 4.44
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T22:00:00+00:00",
+  "swellDirection": 219.77,
+  "swellHeight": 0.88,
+  "swellPeriod": 12.84,
+  "waveDirection": 226.18,
+  "waveHeight": 1.21,
+  "windDirection": 220.5,
+  "windSpeed": 4.04
+  }
+  ]
+  },
+  {
+  "time": "2023-07-15T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-15T23:00:00+00:00",
+  "swellDirection": 219.76,
+  "swellHeight": 0.88,
+  "swellPeriod": 12.79,
+  "waveDirection": 226.1,
+  "waveHeight": 1.21,
+  "windDirection": 212.81,
+  "windSpeed": 3.65
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T00:00:00+00:00",
+  "swellDirection": 219.75,
+  "swellHeight": 0.89,
+  "swellPeriod": 12.73,
+  "waveDirection": 226.02,
+  "waveHeight": 1.21,
+  "windDirection": 205.12,
+  "windSpeed": 3.25
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T01:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T01:00:00+00:00",
+  "swellDirection": 219.52,
+  "swellHeight": 0.89,
+  "swellPeriod": 12.71,
+  "waveDirection": 225.07,
+  "waveHeight": 1.2,
+  "windDirection": 194.32,
+  "windSpeed": 2.79
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T02:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T02:00:00+00:00",
+  "swellDirection": 219.28,
+  "swellHeight": 0.9,
+  "swellPeriod": 12.69,
+  "waveDirection": 224.13,
+  "waveHeight": 1.2,
+  "windDirection": 183.53,
+  "windSpeed": 2.33
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T03:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T03:00:00+00:00",
+  "swellDirection": 219.05,
+  "swellHeight": 0.9,
+  "swellPeriod": 12.67,
+  "waveDirection": 223.18,
+  "waveHeight": 1.19,
+  "windDirection": 172.73,
+  "windSpeed": 1.87
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T04:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T04:00:00+00:00",
+  "swellDirection": 218.67,
+  "swellHeight": 0.89,
+  "swellPeriod": 12.64,
+  "waveDirection": 221.51,
+  "waveHeight": 1.18,
+  "windDirection": 223.69,
+  "windSpeed": 2.22
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T05:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T05:00:00+00:00",
+  "swellDirection": 218.3,
+  "swellHeight": 0.89,
+  "swellPeriod": 12.61,
+  "waveDirection": 219.84,
+  "waveHeight": 1.17,
+  "windDirection": 274.64,
+  "windSpeed": 2.58
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T06:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T06:00:00+00:00",
+  "swellDirection": 217.92,
+  "swellHeight": 0.88,
+  "swellPeriod": 12.58,
+  "waveDirection": 218.17,
+  "waveHeight": 1.16,
+  "windDirection": 325.6,
+  "windSpeed": 2.93
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T07:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T07:00:00+00:00",
+  "swellDirection": 224.35,
+  "swellHeight": 0.73,
+  "swellPeriod": 12.32,
+  "waveDirection": 220.62,
+  "waveHeight": 1.15,
+  "windDirection": 318.68,
+  "windSpeed": 2.92
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T08:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T08:00:00+00:00",
+  "swellDirection": 230.78,
+  "swellHeight": 0.59,
+  "swellPeriod": 12.05,
+  "waveDirection": 223.07,
+  "waveHeight": 1.15,
+  "windDirection": 311.76,
+  "windSpeed": 2.92
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T09:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T09:00:00+00:00",
+  "swellDirection": 237.21,
+  "swellHeight": 0.44,
+  "swellPeriod": 11.79,
+  "waveDirection": 225.52,
+  "waveHeight": 1.14,
+  "windDirection": 304.84,
+  "windSpeed": 2.91
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T10:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T10:00:00+00:00",
+  "swellDirection": 230.56,
+  "swellHeight": 0.58,
+  "swellPeriod": 11.85,
+  "waveDirection": 224.61,
+  "waveHeight": 1.14,
+  "windDirection": 319.38,
+  "windSpeed": 2.36
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T11:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T11:00:00+00:00",
+  "swellDirection": 223.91,
+  "swellHeight": 0.73,
+  "swellPeriod": 11.92,
+  "waveDirection": 223.69,
+  "waveHeight": 1.13,
+  "windDirection": 333.91,
+  "windSpeed": 1.8
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T12:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T12:00:00+00:00",
+  "swellDirection": 217.26,
+  "swellHeight": 0.87,
+  "swellPeriod": 11.98,
+  "waveDirection": 222.78,
+  "waveHeight": 1.13,
+  "windDirection": 348.45,
+  "windSpeed": 1.25
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T13:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T13:00:00+00:00",
+  "swellDirection": 216.91,
+  "swellHeight": 0.86,
+  "swellPeriod": 11.96,
+  "waveDirection": 221.49,
+  "waveHeight": 1.13,
+  "windDirection": 332.36,
+  "windSpeed": 2.48
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T14:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T14:00:00+00:00",
+  "swellDirection": 216.57,
+  "swellHeight": 0.86,
+  "swellPeriod": 11.94,
+  "waveDirection": 220.21,
+  "waveHeight": 1.12,
+  "windDirection": 316.27,
+  "windSpeed": 3.72
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T15:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T15:00:00+00:00",
+  "swellDirection": 216.22,
+  "swellHeight": 0.85,
+  "swellPeriod": 11.92,
+  "waveDirection": 218.92,
+  "waveHeight": 1.12,
+  "windDirection": 300.18,
+  "windSpeed": 4.95
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T16:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T16:00:00+00:00",
+  "swellDirection": 215.92,
+  "swellHeight": 0.84,
+  "swellPeriod": 11.9,
+  "waveDirection": 217.49,
+  "waveHeight": 1.12,
+  "windDirection": 290.35,
+  "windSpeed": 5.06
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T17:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T17:00:00+00:00",
+  "swellDirection": 215.62,
+  "swellHeight": 0.82,
+  "swellPeriod": 11.89,
+  "waveDirection": 216.07,
+  "waveHeight": 1.13,
+  "windDirection": 280.51,
+  "windSpeed": 5.16
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T18:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T18:00:00+00:00",
+  "swellDirection": 215.32,
+  "swellHeight": 0.81,
+  "swellPeriod": 11.87,
+  "waveDirection": 214.64,
+  "waveHeight": 1.13,
+  "windDirection": 270.68,
+  "windSpeed": 5.27
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T19:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T19:00:00+00:00",
+  "swellDirection": 212.4,
+  "swellHeight": 0.66,
+  "swellPeriod": 10.77,
+  "waveDirection": 213.54,
+  "waveHeight": 1.13,
+  "windDirection": 260.56,
+  "windSpeed": 4.47
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T20:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T20:00:00+00:00",
+  "swellDirection": 209.47,
+  "swellHeight": 0.5,
+  "swellPeriod": 9.68,
+  "waveDirection": 212.43,
+  "waveHeight": 1.12,
+  "windDirection": 250.43,
+  "windSpeed": 3.68
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T21:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T21:00:00+00:00",
+  "swellDirection": 206.55,
+  "swellHeight": 0.35,
+  "swellPeriod": 8.58,
+  "waveDirection": 211.33,
+  "waveHeight": 1.12,
+  "windDirection": 240.31,
+  "windSpeed": 2.88
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T22:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T22:00:00+00:00",
+  "swellDirection": 210.24,
+  "swellHeight": 0.5,
+  "swellPeriod": 8.46,
+  "waveDirection": 214.25,
+  "waveHeight": 1.12,
+  "windDirection": 216.12,
+  "windSpeed": 2.6
+  }
+  ]
+  },
+  {
+  "time": "2023-07-16T23:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-16T23:00:00+00:00",
+  "swellDirection": 213.94,
+  "swellHeight": 0.66,
+  "swellPeriod": 8.34,
+  "waveDirection": 217.17,
+  "waveHeight": 1.11,
+  "windDirection": 191.93,
+  "windSpeed": 2.33
+  }
+  ]
+  },
+  {
+  "time": "2023-07-17T00:00:00+00:00",
+  "forecast": [
+  {
+  "lat": -11.11,
+  "lng": 12.12,
+  "name": "Cassino",
+  "position": "E",
+  "rating": 1,
+  "time": "2023-07-17T00:00:00+00:00",
+  "swellDirection": 217.63,
+  "swellHeight": 0.81,
+  "swellPeriod": 8.22,
+  "waveDirection": 220.09,
+  "waveHeight": 1.11,
+  "windDirection": 167.74,
+  "windSpeed": 2.05
+  }
+  ]
+  }
+  ]

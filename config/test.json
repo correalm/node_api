@@ -4,6 +4,9 @@
       "StormGlass": {
         "apiToken": "test-token"
       }
+    },
+    "database": {
+      "mongoUrl": "mongodb://0.0.0.0:27017/surf-forecast"
     }
   }
 }
