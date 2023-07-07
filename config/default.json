@@ -2,7 +2,7 @@
   "App": {
     "port": 3000,
     "database": {
-      "mongoURL": "mongodb://localhost:27017/surf-forecast"
+      "mongoURL": "mongodb://0.0.0.0:27017/surf-forecast"
     },
     "resources": {
       "StormGlass": {

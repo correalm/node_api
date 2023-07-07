@@ -6,7 +6,7 @@
       }
     },
     "database": {
-      "mongoUrl": "mongodb://localhost:27017/surf-forecast"
+      "mongoUrl": "mongodb://0.0.0.0:27017/surf-forecast"
     }
   }
 }
