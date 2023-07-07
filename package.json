@@ -12,7 +12,7 @@
     "style:check": "prettier --check 'src/**/*.ts' 'test/**/*.ts'",
     "style:fix": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
     "test:functional": "jest --projects ./test --runInBand",
-    "test": "yarn test:functional && jest"
+    "test": "jest"
   },
   "keywords": [
     "nodeJS",
