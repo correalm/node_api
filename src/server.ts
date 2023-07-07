@@ -41,7 +41,11 @@ export class SetupServer extends Server {
   }
 
   private async databaseSetup(): Promise<void> {
-    await db.connect();
+    try {
+      await db.connect();
+    } catch (error) {
+      console.error('databaseSetup:: ', error)
+    }
   }
 
   public async close(): Promise<void> {
