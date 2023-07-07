@@ -4,8 +4,8 @@ import bodyParser from 'body-parser';
 import { Application } from 'express';
 
 // controllers
-import { BeachesController } from '@controllers/beaches';
-import { ForecastController } from '@controllers/forecast';
+import { BeachesController } from './controllers/beaches';
+import { ForecastController } from './controllers/forecast';
 
 // database
 import * as db from './database';
@@ -15,6 +15,12 @@ import './util/module-alias';
 export class SetupServer extends Server {
   constructor(private port = 3000) {
     super();
+  }
+
+  public async start(): Promise<void> {
+    this.app.listen(this.port, () => {
+      console.info('Server listening on port: ', this.port)
+    })
   }
 
   public async init(): Promise<void> {

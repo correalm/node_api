@@ -1,13 +1,13 @@
-import { StormGlass } from '@src/clients/stormGlass';
-import stormGlassNormalizedResponse from '@test/fixtures/stormglass_normalized_weather_2_hours.json';
+import { StormGlass } from 'src/clients/stormGlass';
+import stormGlassNormalizedResponse from 'test/fixtures/stormglass_normalized_weather_2_hours.json';
 import {
   Forecast,
   ForecastProcessingInternalError,
 } from '../forecast';
-import { BeachI, BeachPosition } from '@src/models/beach'
+import { BeachI, BeachPosition } from 'src/models/beach'
 import apiForecastResponse from '../../../test/fixtures/api_forecast_response_2_hours.json'
 
-jest.mock('@src/clients/stormGlass');
+jest.mock('src/clients/stormGlass');
 
 describe('Forecast Service', () => {
   // this permits types on mocked element

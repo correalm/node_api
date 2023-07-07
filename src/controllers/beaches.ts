@@ -1,5 +1,5 @@
-import { Controller, Post } from '@overnightjs/core';
-import { Beach } from '@src/models/beach';
+import { Controller, Get, Post } from '@overnightjs/core';
+import { Beach } from '../models/beach';
 import { Request, Response } from 'express';
 import mongoose from 'mongoose';
 
@@ -21,6 +21,18 @@ export class BeachesController {
       } else {
         res.status(500).send({ error: 'Internal server error' })
       }
+    }
+  }
+
+  @Get('')
+  public async getLoggedUserBeaches(_: Request, res: Response): Promise<void> {
+    try {
+      const beaches = await Beach.find({})
+
+      res.status(200).send(beaches)
+    } catch (error) {
+      console.error(error)
+      res.status(500).send({ error: 'Internal server error' })
     }
   }
 }

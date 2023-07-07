@@ -8,8 +8,7 @@ module.exports = {
   clearMocks: true,
   preset: 'ts-jest',
   moduleNameMapper: {
-    '@src/(.*)': '<rootDir>/src/$1',
-    '@test/(.*)': '<rootDir>/test/$1',
-    '@controllers/(.*)': '<rootDir>/src/controllers/$1',
+    'src/(.*)': '<rootDir>/src/$1',
+    'test/(.*)': '<rootDir>/test/$1',
   }
 };

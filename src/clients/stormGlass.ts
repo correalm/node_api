@@ -1,6 +1,6 @@
-import { InternalError } from '@src/util/errors/internal-error';
+import { InternalError } from '../util/errors/internal-error';
 import config, { IConfig } from 'config';
-import * as HTTPUtil from '@src/util/request';
+import * as HTTPUtil from '../util/request';
 
 export interface StormGlassPointSource {
   // dynamic key

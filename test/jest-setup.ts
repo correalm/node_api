@@ -1,5 +1,5 @@
 // responsável por iniciar o servidor em todos os testes funcionais
-import { SetupServer } from '@src/server';
+import { SetupServer } from 'src/server';
 import supertest from 'supertest';
 
 let server: SetupServer;

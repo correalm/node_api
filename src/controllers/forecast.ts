@@ -1,6 +1,6 @@
 import { Controller, Get } from '@overnightjs/core';
-import { Beach } from '@src/models/beach';
-import { Forecast } from '@src/services/forecast';
+import { Beach } from '../models/beach';
+import { Forecast } from '../services/forecast';
 import { Request, Response } from 'express';
 
 const forecast = new Forecast()
@@ -14,6 +14,7 @@ export class ForecastController {
 
       res.status(200).send(forecastData)
     } catch (error) {
+      console.error(error)
       res.status(500).send({ error: 'Something wrong' })
     }
   }

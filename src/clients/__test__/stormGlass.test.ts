@@ -1,9 +1,9 @@
-import { StormGlass } from '@src/clients/stormGlass';
-import * as HTTPUtil from '@src/util/request';
-import stormGlassNotNormaliezedWeather from '@test/fixtures/stormglass_weather_2_hours.json';
-import stormGlassNormalizedWeather from '@test/fixtures/stormglass_normalized_weather_2_hours.json';
+import { StormGlass } from 'src/clients/stormGlass';
+import * as HTTPUtil from 'src/util/request';
+import stormGlassNotNormaliezedWeather from 'test/fixtures/stormglass_weather_2_hours.json';
+import stormGlassNormalizedWeather from 'test/fixtures/stormglass_normalized_weather_2_hours.json';
 
-jest.mock('@src/util/request');
+jest.mock('src/util/request');
 
 describe('StormGlass client', () => {
   const mockedRequestClass = HTTPUtil.Request as jest.Mocked<
