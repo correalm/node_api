@@ -39,4 +39,6 @@ jobs:
       run: yarn --frozen-lockfile
 
     - name: Run all tests
+      env:
+          MONGODB_URL: mongodb://localhost:${{ job.services.mongodb.ports[27017] }}/surf-forecast
       run: yarn test
