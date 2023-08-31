@@ -1,4 +1,4 @@
-import mongoose, { Document, Model } from 'mongoose';
+import mongoose, { Document } from 'mongoose';
 
 export interface IUser {
   _id?: string
@@ -7,17 +7,11 @@ export interface IUser {
   password: string
 }
 
-interface UserModel extends Omit<IUser, '_id'>, Document {}
-
 const schema = new mongoose.Schema(
   {
-    name: { type: String, require: true },
-    email: {
-      type: String,
-      require: true,
-      unique: true,
-    },
-    password: { type: String, require: true },
+    name: { type: String, required: true },
+    email: { type: String, require: true, },
+    password: { type: String, required: true },
   },
   {
     toJSON: {
@@ -30,4 +24,6 @@ const schema = new mongoose.Schema(
   }
 )
 
-export const User: Model<UserModel> = mongoose.model<UserModel>('User', schema);
+interface UserModel extends Omit<IUser, '_id'>, Document {}
+
+export const User = mongoose.model<UserModel>('User', schema);
