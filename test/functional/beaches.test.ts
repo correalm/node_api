@@ -37,6 +37,22 @@ describe('Beaches functional tests', () => {
       });
     })
 
+    test('return 422 when there is a validation error (empty field)', async () => {
+      const beach = {
+        lat: 12.12,
+        lng: 12.12,
+        position: 'E',
+      };
+
+      const response = await global.testRequest.post('/beaches').send(beach);
+
+      expect(response.status).toBe(422);
+
+      expect(response.body).toEqual({
+        error: 'Beach validation failed: name: Path `name` is required.'
+      });
+    })
+
     test.skip('return 500 when there is any error other than validation error', async () => {
       // todo
     })
